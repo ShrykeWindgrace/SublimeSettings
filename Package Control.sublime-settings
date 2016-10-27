@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Git",
+		"Language - French - Français",
+		"LaTeXing",
+		"LTX-Tweaks",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SyntaxFold",
+		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/ShrykeWindgrace/LTX-Tweaks"
+	]
+}

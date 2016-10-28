@@ -8,15 +8,14 @@
 		"Anaconda",
 		"Git",
 		"Language - French - Français",
+		"LaTeX Word Count",
 		"LaTeXing",
 		"LTX-Tweaks",
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"SyntaxFold",
-		"WordCount"
+		"Solarized Color Scheme",
+		"SyntaxFold"
 	],
 	"repositories":
 	[

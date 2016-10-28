@@ -1,10 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"font_size": 22,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"WordCount"
 	],
 	"translate_tabs_to_spaces": true
 }

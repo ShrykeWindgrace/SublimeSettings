@@ -4,8 +4,7 @@
 	"font_size": 22,
 	"ignored_packages":
 	[
-		"Vintage",
-		"WordCount"
+		"Vintage"
 	],
 	"translate_tabs_to_spaces": true
 }

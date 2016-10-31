@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"BracketHighlighter",
 		"Git",
 		"Language - French - Français",
 		"LaTeX Word Count",
